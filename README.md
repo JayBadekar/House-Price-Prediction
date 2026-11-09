@@ -2,6 +2,9 @@ California House Price Prediction :-
 
 A machine-learning regression project that predicts median house values across 20,640 California districts using location, housing and demographic features.
 
+Kaggle Dataset Link :- https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
+
 Workflow :-
 
 Exploratory data analysis: price distribution, income vs price scatter plot, correlation heatmap
